@@ -4,22 +4,15 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/       
+    url: /talks/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects"
+    url: /projects/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
+  
 
     
     
