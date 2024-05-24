@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jérôme Guyot"
-  avatar           : "id"
+  avatar           : "id_png"
   bio              : "Master's student at ENS Paris-Saclay"
   location         : "ENS Paris-Saclay"
   employer         :
