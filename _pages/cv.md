@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Computer science, Université Paris-Saclay (ENS Paris-Saclay), 2023
-* M.S. in Theoretical Computer science, Université Paris-Saclay (ENS Paris-Saclay), 2024 (ongoing)
+* M.S. in Theoretical Computer science, Université Paris-Saclay (ENS Paris-Saclay), 2024 (ongoing) 
 
 Work experience
 ======
