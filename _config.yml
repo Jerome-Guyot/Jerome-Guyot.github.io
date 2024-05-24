@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Jérôme Guyot"
 title_separator          : "-"
 name                     : &name "Jérôme Guyot"
-description              : &description "Test Page"
+description              : &description " Master's student at ENS Paris-Saclay"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://Jerome-Guyot.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jerome-Guyot/Jerome-Guyot.github.io"
-teaser                   :  filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  filename of teaser fallback teaser image placed in /images/, .e.g. "images/PXL_20240414_215407676.MP (3).jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @_JeromeGuyot
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jérôme Guyot"
-  avatar           : "profile.png"
-  bio              : "Test Page"
+  avatar           : "images/PXL_20240414_215407676.MP (3).jpg"
+  bio              : "Master's student at ENS Paris-Saclay"
   location         : "ENS Paris-Saclay"
   employer         :
   pubmed           : #" "
   googlescholar    : #" "
-  email            :
+  email            : "jerome.guyot@ens-paris-saclay.fr"
   researchgate     :  # example: " "
   uri              :
   bitbucket        :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
