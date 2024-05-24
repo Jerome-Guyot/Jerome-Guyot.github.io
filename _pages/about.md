@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-======
-
 Hi, 
 
 I am a student at ENS Paris-Saclay, part of Université Paris-Saclay, I am enrolled in the MPRI master ( Parisian Master of research in Computer science ). 
