@@ -5,4 +5,4 @@ collection: projects
 permalink: projects/project1
 ---
 
-[Download PDF](files/papier_lncs_compressed.pdf)
+[Download PDF](/files/papier_lncs_compressed.pdf)
