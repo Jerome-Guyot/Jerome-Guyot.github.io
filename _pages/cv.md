@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2023 : Research Assistant
   * IRISA Rennes
-  * Study of the ZSVP Problem Resolution
+  * [Study of the ZSVP Problem Resolution](files/rapport_stage_jerome_guyot.pdf)
   * Supervisor: Pierre-Alain Fouque
 
 * Winter-Spring 2024: Research Assistant
