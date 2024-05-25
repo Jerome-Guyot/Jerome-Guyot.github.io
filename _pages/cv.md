@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Summer 2023 : Research Assistant
-  * IRISA rennes
+  * IRISA Rennes
   * Study of the ZSVP Problem Resolution
   * Supervisor: Pierre-Alain Fouque
 
