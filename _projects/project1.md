@@ -5,7 +5,9 @@ collection: projects
 permalink: projects/project1
 ---
 
-Abstract. This paper investigates the state complexities of subword-closed and
+Abstract. 
+
+This paper investigates the state complexities of subword-closed and
 superword-closed languages, comparing them to regular languages. We focus on
 the square root operator and the substitution operator. We establish an exponential
 lower bound for superword-closed languages for the k-th root. For subword-closed
