@@ -47,7 +47,7 @@ Teaching
 
   Projects
 ======
-  <ul>{% for post in site.portfolio %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
