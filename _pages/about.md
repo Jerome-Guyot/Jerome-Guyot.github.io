@@ -16,4 +16,5 @@ Before this, I did an internship at IRISA Rennes with Pierre-Alain Fouque, where
 You can find my other projects on my CV.
 
 I am also a tennis player, and I play the drums. 
+
 Feel free to message me if you want to get in touch!
