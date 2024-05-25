@@ -16,4 +16,4 @@ which a quadratic complexity is proven. For the substitution operator, we show
 an exponential lower bound for the general substitution. We then find some conditions for which we prove a quadratic upper bound.
 
 
-[Download PDF](/files/papier_lncs_compressed.pdf)
+[View PDF](/files/papier_lncs_compressed.pdf)
