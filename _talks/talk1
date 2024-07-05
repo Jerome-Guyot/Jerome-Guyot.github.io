@@ -5,7 +5,7 @@ collection: talks
 permalink: talks/talk1
 ---
 
-Abstract. 
+Abstract.
 
 This paper investigates the state complexities of subword-closed and
 superword-closed languages, comparing them to regular languages. We focus on
