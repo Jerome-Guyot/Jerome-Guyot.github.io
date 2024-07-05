@@ -2,7 +2,7 @@
 title: "State complexity of subword-closed languages"
 excerpt: "Talk at [Highlights 2024](https://highlights-conference.org/2024/cfp)"
 collection: talks
-permalink: talks/talk1
+permalink: talks/talk1.md
 ---
 
 Abstract.
@@ -16,5 +16,7 @@ which a quadratic complexity is proven. For the substitution operator, we show
 an exponential lower bound for the general substitution. We then find some conditions for which we prove a quadratic upper bound.
 
 [Extended abstract](/files/resume_lncs.pdf)
+
 [Full paper](/files/papier_lncs.pdf)
+
 [Slides]
