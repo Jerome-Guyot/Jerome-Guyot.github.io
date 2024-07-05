@@ -17,6 +17,6 @@ an exponential lower bound for the general substitution. We then find some condi
 
 [Extended abstract](/files/resume_lncs.pdf)
 
-[Full paper](/files/papier_lncs.pdf)
+[Full paper](files/papier_lncs.pdf)
 
 [Slides]
