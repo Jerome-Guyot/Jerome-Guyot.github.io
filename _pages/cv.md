@@ -23,7 +23,7 @@ Work experience
 
 * Winter-Spring 2024: Research Assistant
   * University of Waterloo
-  * Transerval gates for good quantum LDPC codes
+  * Addressable gates for CSS codes
   * Supervisor: Samuel Jaques
   
 
