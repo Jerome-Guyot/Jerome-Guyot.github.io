@@ -1,8 +1,10 @@
 ---
 title: "State complexity of subword-closed languages"
 excerpt: "Focus on the root and substitution operations on subword closed and superword closed languages"
-collection: projects
+collection: publications
+date: 2024-07-14
 permalink: publications/publication1
+paperurl: '/files/papier_lncs.pdf'
 ---
 
 Abstract. 
