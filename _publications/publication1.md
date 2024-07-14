@@ -4,7 +4,7 @@ excerpt: "Focus on the root and substitution operations on subword closed and su
 collection: publications
 date: 2024-07-14
 permalink: publications/publication1
-paperurl: '/files/papier_lncs.pdf'
+venue : Arxiv
 ---
 
 Abstract. 
