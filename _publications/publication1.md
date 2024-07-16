@@ -4,7 +4,7 @@ excerpt: "Focus on the root and substitution operations on subword closed and su
 collection: publications
 date: 2024-07-14
 permalink: publications/publication1
-venue : Arxiv ( [Preprint](https://arxiv.org/abs/2407.10355) )
+venue : Arxiv
 ---
 
 Abstract. 
@@ -19,3 +19,4 @@ an exponential lower bound for the general substitution. We then find some condi
 
 
 [View PDF](/files/papier_lncs.pdf)
+[Preprint Arxiv] (https://arxiv.org/abs/2407.10355) )
