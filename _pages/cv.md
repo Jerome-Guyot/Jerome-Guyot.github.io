@@ -23,7 +23,7 @@ Work experience
 
 * Winter-Spring 2024: Research Assistant
   * University of Waterloo
-  * Addressable gates for CSS codes
+  * Addressable gates for CSS codes(files/rapport_de_stage_M1.pdf)
   * Supervisor: Samuel Jaques
   
 
