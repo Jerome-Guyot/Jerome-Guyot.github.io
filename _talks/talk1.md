@@ -1,6 +1,6 @@
 ---
 title: "State complexity of subword-closed languages"
-excerpt: "Will be presented at [Highlights 2024](https://highlights-conference.org/2024/cfp) and [	
+excerpt: "Presented at [Highlights 2024](https://highlights-conference.org/2024/cfp) and [	
 19th Mons Theoretical Computer Science Days](https://jm2024.sciencesconf.org)"
 collection: talks
 permalink: talks/talk1
