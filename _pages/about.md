@@ -18,4 +18,6 @@ Before this, I did an internship at IRISA Rennes with [Pierre-Alain Fouque](http
 
 I am also a tennis player, and I play the drums. 
 
-Feel free to message me if you want to get in touch!
+Feel free to message me if you want to get in touch !
+
+
