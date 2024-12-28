@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Master's student at École Normale Supérieure Paris-Saclay (ENS Paris-Saclay). My main research interests are quantum computing, cryptography and complexity theory. 
+I am a Computer Science Master's student at [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/) (ENS Paris-Saclay). My main research interests are quantum computing, cryptography and complexity theory. 
 
-Starting from march I will be working with [Alex Bredariol Grilo](https://abgrilo.github.io/) on a quantum complexity analysis of the Uhlmann tranformation problem and its link to zero-knowledge proofs. 
+Starting from march I will be working at Sorbonne Université (Paris, France) with [Alex Bredariol Grilo](https://abgrilo.github.io/) on a quantum complexity analysis of the Uhlmann tranformation problem and its link to zero-knowledge proofs. 
 
 Last semester I worked at the IQC at University of Waterloo Canada, under the supervision of [Samuel Jaques](https://sam-jaques.appspot.com/) on the addressability problem on CSS quantum error correcting codes.
 
