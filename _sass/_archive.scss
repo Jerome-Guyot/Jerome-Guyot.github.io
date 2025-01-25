@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 1em;
+  margin-top: 1em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -64,6 +65,11 @@
   & + p {
     text-indent: 0;
   }
+}
+
+.archive__item {
+  margin-top: 1em; // Reduced from 2em
+  margin-bottom: 1em; // Reduced from 2em
 }
 
 .archive__item-teaser {
