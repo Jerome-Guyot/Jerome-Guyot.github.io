@@ -1,6 +1,6 @@
 ---
 title: "On the addressability on CSS codes"
-excerpt: "Presented at [JITA 2025](https://codimd.math.cnrs.fr/s/o9u4GbSBt#)
+excerpt: "Presented at [JITA 2025](https://codimd.math.cnrs.fr/s/o9u4GbSBt#)"
 collection: talks
 permalink: talks/talk_addressability
 ---
