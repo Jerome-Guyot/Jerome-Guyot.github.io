@@ -1,5 +1,6 @@
 ---
 title: "State complexity of subword-closed languages"
+authors: "Jérôme Guyot"
 excerpt: "Focus on the root and substitution operations on subword closed and superword closed languages"
 collection: publications
 date: 2024-07-14

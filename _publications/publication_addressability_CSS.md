@@ -1,5 +1,6 @@
 ---
 title: "On the addressability on CSS codes"
+authors: "Jérôme Guyot, Samuel Jaques"
 excerpt: "No-go theorems on the addressability problems on quantum CSS codes"
 collection: publications
 date: 2025-01-24
