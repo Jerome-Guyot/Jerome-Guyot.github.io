@@ -5,7 +5,7 @@ excerpt: "Focus on the root and substitution operations on subword closed and su
 collection: publications
 date: 2024-07-14
 permalink: publications/publication_state_complexity
-venue : Arxiv
+venue : on Arxiv
 ---
 
 Abstract. 
