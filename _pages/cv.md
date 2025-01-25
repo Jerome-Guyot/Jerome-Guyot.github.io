@@ -22,10 +22,12 @@ Research experience
   * Uhlmann Transformation problem and zero-knolwedge proofs
   * Supervisor: [Alex Bredariol Grilo](https://abgrilo.github.io/)
 
+
 * Winter-Spring 2024: Research Assistant
   * University of Waterloo, Canada
   * [On the addressability problem on CSS codes](https://jerome-guyot.github.io/_pages/files/rapport_de_stage_M1.pdf)
   * Supervisor: [Samuel Jaques](https://sam-jaques.appspot.com/)
+
 
 * Summer 2023 : Research Assistant
   * IRISA Rennes, France
