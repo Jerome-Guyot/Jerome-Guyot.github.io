@@ -2,7 +2,7 @@
 title: "On the addressability on CSS codes"
 excerpt: "No-go theorems on the addressability problems on quantum CSS codes"
 collection: publications
-date: Coming soon
+date: 2025-01-24
 permalink: publications/publication_addressability CSS
 venue : Coming soon
 ---
