@@ -3,9 +3,9 @@ title: "On the addressability on CSS codes"
 authors: "Jérôme Guyot, Samuel Jaques"
 excerpt: "No-go theorems on the addressability problem on quantum CSS codes"
 collection: publications
-date: 2025-01-24
+date: 2025-02-19
 permalink: publications/publication_addressability CSS
-venue : on Arxiv
+venue : Arxiv
 ---
 
 Abstract. 
@@ -16,6 +16,7 @@ Quantum computers are highly susceptible to noise, necessitating error-correctin
 [View PDF](/files/on_the_addressability_on_CSS_codes.pdf)
 
 [Preprint Arxiv](https://arxiv.org/abs/2502.13889)
+
 [Extended abstract](/files/addressability_5_pages_abstract.pdf)
 
 [Slides](files/slides_short_addressability.pdf)
