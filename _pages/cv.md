@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Computer science, ENS Paris-Saclay
 * M.S. in Theoretical Computer science (MPRI), ENS Paris-Saclay
+* B.S. in Mathematics and Computer science, ENS Paris-Saclay
 
 Research experience
 ======
