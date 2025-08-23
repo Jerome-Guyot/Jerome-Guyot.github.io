@@ -11,6 +11,6 @@ Quantum computers are highly susceptible to noise, necessitating error-correctin
 
 [Extended abstract](/files/addressability_5_pages_absract.pdf)
 
-[Full paper] (https://arxiv.org/pdf/2502.13889)
+[Full paper](https://arxiv.org/pdf/2502.13889)
 
 [Slides](files/slides_short_addressability.pdf)
