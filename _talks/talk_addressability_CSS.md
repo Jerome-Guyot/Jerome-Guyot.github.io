@@ -1,6 +1,6 @@
 ---
 title: "On the addressability on CSS codes"
-excerpt: "Presented at [JITA 2025](https://codimd.math.cnrs.fr/s/o9u4GbSBt#)"
+excerpt: "Presented at [JITA 2025](https://codimd.math.cnrs.fr/s/o9u4GbSBt#) and Seminar of Free University of Berlin QEC subgroup"
 collection: talks
 permalink: talks/talk_addressability
 ---
@@ -11,6 +11,6 @@ Quantum computers are highly susceptible to noise, necessitating error-correctin
 
 [Extended abstract](/files/addressability_5_pages_absract.pdf)
 
-[Full paper] Coming soon
+[Full paper] (https://arxiv.org/pdf/2502.13889)
 
 [Slides](files/slides_short_addressability.pdf)
