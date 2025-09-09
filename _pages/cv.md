@@ -23,7 +23,7 @@ Research experience
 
 * March - August 2025: Research Assistant
   * Sorbonne Université, France
-  * [On no-signaling secure bit commitments](https://jerome-guyot.github.io/_pages/files/rapport_M2.pdf)
+  * [On no-signaling secure bit commitments](https://jerome-guyot.github.io/files/rapport_M2.pdf)
   * Supervisor: [Alex Bredariol Grilo](https://abgrilo.github.io/)
 
 
