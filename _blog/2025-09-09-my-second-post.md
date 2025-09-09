@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: "My First Blog Post"
+title: "My second Blog Post"
 date: 2025-09-09 21:30:00 +0200
 categories: blog
 ---
 
-Welcome to my new blog!
+Welcome to my blog!
 
 This is the first post on my website. I plan to write about my research, interesting papers I've read, and maybe some coding tutorials.
 
