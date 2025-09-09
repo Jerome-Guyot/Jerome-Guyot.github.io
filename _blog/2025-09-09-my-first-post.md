@@ -2,12 +2,11 @@
 layout: blog
 title:  "My First Blog Post"
 date:   2025-09-09 21:30:00 +0200
-categories: jekyll update
+categories: blog
 ---
 
 Welcome to my new blog!
 
-\n\n
 
 Yes test 
 
