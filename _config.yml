@@ -159,8 +159,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-read_more: enabled
-
 
 # Markdown Processing
 kramdown:
@@ -189,6 +187,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
+    output: true
+    permalink: /:collection/:path/
+  posts:
     output: true
     permalink: /:collection/:path/
 
