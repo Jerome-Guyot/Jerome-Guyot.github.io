@@ -12,12 +12,11 @@ Trying to understand how to write and include latex environments.
 
 $$ E=mc^2 $$
 
-<div class="display-box">
+{: .display-box}
 $E = mc^2$
-</div>
 
 {: .display-box}
-$ 3 + 3 = 6$
+> $ 3 + 3 = 6$
 
 {: .exercise}
 > **Exercise 1.** Prove that if $n$ is even, then $n^2$ is even.
