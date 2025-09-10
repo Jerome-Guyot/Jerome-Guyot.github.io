@@ -16,12 +16,11 @@ $$ E=mc^2 $$
 $E = mc^2$
 </div>
 
-test
-
+{: .display-box}
+> $ 3 + 3 = 6$
 
 {: .exercise}
 > **Exercise 1.** Prove that if $n$ is even, then $n^2$ is even.
->
 > [See Solution &rarr;](#solution1)
 
 {: .block}
