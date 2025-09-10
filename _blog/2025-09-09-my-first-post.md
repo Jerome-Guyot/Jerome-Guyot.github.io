@@ -20,7 +20,9 @@ test
 
 
 {: .exercise}
-> **Exercise.** Prove that if $n$ is even, then $n^2$ is even.
+> **Exercise 1.** Prove that if $n$ is even, then $n^2$ is even.
+>
+> [See Solution &rarr;](#solution1)
 
 {: .block}
 > **Definition.** Prove that if $n$ is even, then $n^2$ is even.
@@ -46,3 +48,6 @@ def hello():
     Figure 1: Addressability
   </div>
 </div>
+
+{: .exercise #solution1}
+> **Solution 1.** If $n$ is even, $n = 2k$ for some integer $k$, so $n^2 = (2k)^2 = 4k^2$, which is even.
