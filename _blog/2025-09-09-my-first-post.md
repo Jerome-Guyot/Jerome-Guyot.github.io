@@ -9,3 +9,7 @@ Welcome to my new blog!
 
 Yes test 
 
+$$
+\boxed{E=mc^2}
+$$
+
