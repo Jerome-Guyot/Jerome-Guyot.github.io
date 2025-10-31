@@ -8,7 +8,7 @@ date:   2025-10-30  18:00:00 +0200
 > *Imagine a single, all-powerful prover, then split it in two, and forbid them to speak. In that silence, BGKW discovered that separation itself can be a source of security.*
 
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/files/blog/bgkw/banner.png" alt="Banner" width="1000" />
+  <img src="/files/blog/bgkw/banner2.png" alt="Banner" width="1000" />
   <div style="color: black; font-weight: normal; font-size: 1em; margin-top: 5px;">
   </div>
 </div>
