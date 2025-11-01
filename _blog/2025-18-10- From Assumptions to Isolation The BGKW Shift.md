@@ -84,6 +84,7 @@ To achieve zero-knowledge with a single prover, GMR relied on *computational ass
 Before going further in the different assumptions one can use to get security, let us explain how GMW get zero-knowledge proofs for **NP**. The protocol of GMW uses bit commitment as its main primitive and uses computational assumptions to build a bit commitment protocol. **Bit commitment** is a cryptographic primitive that allows a party $A$ to commit to a value $b$ while keeping it hidden. You can think of it as putting $b$ inside a locked chest and giving the chest to another party $B$. The scheme has two essential properties: 
   - **Hiding**: $B$ cannot learn the value of before opens the commitment.
   - **Binding**: Once $A$ has committed, they cannot later change the value of $b$.
+  
 Later, $A$ can send the “key” to open the chest, revealing $b$ and allowing $B$ to verify it. This primitive will be the topic of a future blog post, so we will not define it formally here.
 
 {: .example}
