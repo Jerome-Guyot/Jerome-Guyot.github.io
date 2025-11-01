@@ -84,7 +84,7 @@ To achieve zero-knowledge with a single prover, GMR relied on *computational ass
 Before going further in the different assumptions one can use to get security, let us explain how GMW get zero-knowledge proofs for **NP**. The protocol of GMW uses bit commitment as its main primitive and uses computational assumptions to build a bit commitment protocol. **Bit commitment** is a cryptographic primitive that allows a party $A$ to commit to a value $b$ while keeping it hidden. You can think of it as putting $b$ inside a locked chest and giving the chest to another party $B$. The scheme has two essential properties: 
   - **Hiding**: $B$ cannot learn the value of before opens the commitment.
   - **Binding**: Once $A$ has committed, they cannot later change the value of $b$.
-  
+
 Later, $A$ can send the “key” to open the chest, revealing $b$ and allowing $B$ to verify it. This primitive will be the topic of a future blog post, so we will not define it formally here.
 
 {: .example}
@@ -157,7 +157,7 @@ To get familiar with the multi-prover interactive proof (MIP) model and zero-kno
 > **Perfect Zero-Knowledge.**  
 > Given any verifier $V^\*$, the simulator $S$ proceeds as follows: it first samples the pair of questions $(v_1, v_2)$ according to $V^\*$’s strategy, and then chooses colors $c(v_1), c(v_2)$ that satisfy the verifier’s acceptance condition. It outputs $(\pi \circ c(v_1), \pi \circ c(v_2))$, where $\pi$ is a random permutation of the three colors. Since $\pi \circ c(v_i)$ is uniformly random in {red, blue, green} conditioned on the acceptance test, the view of $V^\*$ in the real interaction is identically distributed to the simulator’s output. Hence, the protocol is *perfect zero-knowledge*.
 
-Readers familiar with single-prover systems might recall that such protocols usually rely on a bit-commitment scheme to force the prover to fix its coloring before seeing the verifier’s question. In the multi-prover setting, this extra step isn’t needed, the separation of the provers, along with consistency checks, already ensures that their answers come from a single, consistent coloring. In other words, physics itself plays the role of the commitment.
+In the single-prover setting, we rely on a bit-commitment scheme to force the prover to fix its coloring before seeing the verifier’s question. In the multi-prover setting, this extra step isn’t needed, the separation of the provers, along with consistency checks, already ensures that their answers come from a single, consistent coloring. In other words, physics itself plays the role of the commitment.
 
 ---
 
