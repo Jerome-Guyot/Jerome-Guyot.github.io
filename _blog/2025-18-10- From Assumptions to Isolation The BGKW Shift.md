@@ -132,8 +132,8 @@ The key insight is that honest provers can agree on a strategy beforehand and ex
 > 
 > The system satisfies:
 > 
-> 1. **Completeness:** If $x \in L$, there exist strategies for the provers so that $V$ accepts with probability 1.
-> 2. **Soundness:** If $x \notin L$, then for *any* strategies of the provers (including strategies coordinated before the protocol begins), $V$ accepts with probability at most $s < 1$.
+> 1. **Completeness:** If $x \in L$, there exist strategies for the provers so that $V$ accepts with probability $\frac{2}{3}$.
+> 2. **Soundness:** If $x \notin L$, then for *any* strategies of the provers (including strategies coordinated before the protocol begins), $V$ accepts with probability at most $\frac{1}{3}$.
 
 To get familiar with the multi-prover interactive proof (MIP) model and zero-knowledge, let us introduce it through a simple example of a perfect zero-knowledge MIP protocol (PZK-MIP).
 
@@ -166,7 +166,7 @@ In the single-prover setting, we rely on a bit-commitment scheme to force the pr
 Formally, BGKW introduced the notion of a **multi-prover interactive proof (MIP)** and used it to construct a **perfect zero-knowledge proof for all of NEXP** *without any cryptographic assumptions*. To be more precise, BGKW proved that **MIP** = **perfect zero-knowledge MIP** with two provers. Combining this with the independent result of Fortnow, Rompel, and Sipser, who showed that **MIP** = **NEXP**, we obtain the following theorem.
 
 {: .theorem}
-> **Theorem (BGKW, 1988).** There exists a two-prover interactive proof system for every language in NEXP that is statistically sound and perfectly zero-knowledge, even against computationally unbounded provers.
+> **Theorem (BGKW, 1988).** There exists a two-prover interactive proof system for every language in **NEXP** that is statistically sound and perfectly zero-knowledge, even against computationally unbounded provers.
 
 This result was remarkable for several reasons:
 
